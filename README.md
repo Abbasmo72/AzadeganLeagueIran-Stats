@@ -1,4 +1,4 @@
-For Persian version, click [here](Persian.md).
+For Persian version, click [here](Persian..md).
 <hr>
 
 # Azadegan League ⚽
