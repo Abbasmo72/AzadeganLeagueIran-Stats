@@ -1,3 +1,6 @@
+For Persian version, click [here](Persian.md).
+<hr>
+
 # Azadegan League ⚽
 Welcome to this repository! 🎉 It’s all about storing and sharing the results of the **Azadegan League** (Iran's football second division). Our goal? To keep you updated with the latest standings, match results, and cool stats! 📊
 
