@@ -5,14 +5,12 @@ For Persian version, click [here](Persian.md).
 Welcome to this repository! 🎉 It’s all about storing and sharing the results of the **Azadegan League** (Iran's football second division). Our goal? To keep you updated with the latest standings, match results, and cool stats! 📊
 
 ## Project Structure 🗂️
-- **`data/`**: Where the magic happens—match results and team info live here (e.g., CSV or JSON files). ✨
-- **`docs/`**: Extra goodies like league rules or bonus details. 📜
-- **`README.md`**: You’re reading it! This is your guide to the project. 🗺️
+- LeagueTable.csv: The final league standings for each season.
+- Results.csv: Head-to-head match results of teams in the league.
 
 ## How to Use 🚀
-1. Head to the `data/` folder to check out the results. 👀
-2. Download the files or sneak a peek right here on GitHub. 💾
-3. Wanna help out? Send us a Pull Request! 🤝
+1. Download the files or sneak a peek right here on GitHub. 💾
+2. Wanna help out? Send us a Pull Request! 🤝
 
 ## Updates ⏰
 - **Last update**: March 5, 2025 🗓️
