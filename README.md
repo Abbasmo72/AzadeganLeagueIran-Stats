@@ -5,10 +5,10 @@ For Persian version, click [here](Persian.md).
 Welcome to this repository! 🎉 It’s all about storing and sharing the results of the **Azadegan League** (Iran's football second division). Our goal? To keep you updated with the latest standings, match results, and cool stats! 📊
 
 ## Project Structure 🗂️
-- <b>FinalTable</b>:Azadegan League Final Table.
-- <b>FinalResults</b>:Azadegan League Final Results.
-- <b>GroupTable</b>:Group table which includes 2 tables in some years.
-- <b>GroupResults</b>:Group results that include 2 tables in some years.
+- <b>FinalTable</b>: Azadegan League Final Table.
+- <b>FinalResults</b>: Azadegan League Final Results.
+- <b>GroupTable</b>: Group table which includes 2 tables in some years.
+- <b>GroupResults</b>: Group results that include 2 tables in some years.
 
 
 ## How to Use 🚀
