@@ -6,9 +6,10 @@ Welcome to this repository! 🎉 It’s all about storing and sharing the result
 
 ## Project Structure 🗂️
 - <b>FinalTable</b>:Azadegan League Final Table.
+- <b>FinalResults</b>:Azadegan League Final Results.
 - <b>GroupTable</b>:Group table which includes 2 tables in some years.
-- <b>GroupResults</b>:
-- <b>FinalResults</b>:
+- <b>GroupResults</b>:Group results that include 2 tables in some years.
+
 
 ## How to Use 🚀
 1. Download the files or sneak a peek right here on GitHub. 💾
